@@ -922,7 +922,7 @@ footer>.container {
 .modal-form-input {
   display: inline-block;
   padding: 11px 42px;
-  /* height: 40px; */
+  height: 40px;
   width: 100%;
   border: 1px solid #21212133;
   border-radius: 4px;
